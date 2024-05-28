@@ -1,0 +1,4 @@
+.env
+input_folder/*
+output_folder/*
+weekly_report_ppt_template/*
